@@ -1,0 +1,1 @@
+# sonar-object-c-copy
